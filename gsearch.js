@@ -1,7 +1,6 @@
 const request = require("request")
 
-var URL = "https://serpapi.com/search?engine=google&q=%22BERT&api_key=f21f326b550a02e9512eb47d920a58bfebd441f41cf2b4c558b620a185ebfa7e";
-//var URL = "https://serpapi.com/search?engine=google_scholar&q=%22BERT&api_key=f21f326b550a02e9512eb47d920a58bfebd441f41cf2b4c558b620a185ebfa7e";
+var URL = "https://serpapi.com/search?engine=google&q=%22BERT&api_key=<HIDDEN>";
 
 
 const options = {
